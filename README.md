@@ -50,6 +50,5 @@ Based on the analysis, here are some potential key trends, patterns, and correla
 *   The project is structured within a Jupyter Notebook to allow for a step-by-step execution and clear presentation of code, outputs, and visualizations.
 *   Further analysis could involve exploring other correlations (e.g., position vs. salary, team vs. height), or deeper dives into individual team performances if relevant data were available.
 
----
 
-**Feel free to explore the Jupyter Notebook (`your_project_notebook_name.ipynb`) in this repository for the detailed code and outputs.
+
